@@ -1,0 +1,25 @@
+{
+  "name": "overwatch",
+  "version": "1.0.0",
+  "description": "https://amazing-cascaron-cf01a1.netlify.app/",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jin214930/overwatch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jin214930/overwatch/issues"
+  },
+  "homepage": "https://github.com/jin214930/overwatch#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.56.0"
+  }
+}
